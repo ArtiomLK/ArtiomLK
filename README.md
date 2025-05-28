@@ -4,6 +4,7 @@ My name is ArtiomLK and my vision is to utilize cutting edge technology to creat
 
 ### 🎓 Certifications 📜
 
+- [**Github Certified GitHub Foundations**](https://www.credly.com/badges/7d3dafcf-70c5-4f26-abcb-b80f9777829d/public_url)
 - [**Microsoft Certified Solutions Architect Expert**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/1A7B47B35D53A713?sharingId=CAA7D03D83E9AAAD)
 - [**Microsoft Certified Azure DevOps Engineer Expert**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/69DD3C634828ECCD?sharingId=CAA7D03D83E9AAAD)
 - [**Microsoft Certified Azure AI Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/D9B5B16B74548C51?sharingId=CAA7D03D83E9AAAD)
