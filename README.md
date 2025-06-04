@@ -1,9 +1,10 @@
-## Hello World 👋
+# Hello World 👋
 
 My name is ArtiomLK and my vision is to utilize cutting edge technology to create the best solutions for all variety of problems. I believe everything is possible and always hold a positive attitude towards the end goal.
 
-### 🎓 Certifications 📜
+## 🎓 Certifications 📜
 
+- [**Github Certified GitHub Actions**](https://www.credly.com/badges/142ac155-264e-4255-a06e-0d3b9b2dbbd8/public_url)
 - [**Github Certified GitHub Foundations**](https://www.credly.com/badges/7d3dafcf-70c5-4f26-abcb-b80f9777829d/public_url)
 - [**Microsoft Certified Solutions Architect Expert**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/1A7B47B35D53A713?sharingId=CAA7D03D83E9AAAD)
 - [**Microsoft Certified Azure DevOps Engineer Expert**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/69DD3C634828ECCD?sharingId=CAA7D03D83E9AAAD)
@@ -21,7 +22,7 @@ My name is ArtiomLK and my vision is to utilize cutting edge technology to creat
 - [**Microsoft Certified Security, Compliance, and Identity Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/CD68E1FAE0F1C867?sharingId=CAA7D03D83E9AAAD)
 - [**Microsoft Certified Azure Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/C042E6EF8093B40A?sharingId=CAA7D03D83E9AAAD)
 
-### ✔️ Challenges 🧪
+## ✔️ Challenges 🧪
 
 - [**Microsoft Challenge OpenHack: Security, Compliance, and Identity**](https://www.credly.com/badges/cdca21d9-6493-4b7a-9394-d441e713e120/public_url)
 - [**Microsoft Challenge OpenHack: Serverless**](https://www.credly.com/badges/c9d8612f-7ccb-4779-877d-cd0f58f9ad37/public_url)
