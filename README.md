@@ -4,6 +4,8 @@ My name is ArtiomLK and my vision is to utilize cutting edge technology to creat
 
 ## 🎓 Certifications 📜
 
+- [**Github Certified GitHub Advanced Security**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/815FA466B05D94B?sharingId=CAA7D03D83E9AAAD)
+- [**Github Certified GitHub Copilot**](https://learn.microsoft.com/api/credentials/share/en-us/ArtiomLK/AC2AB9F93DAFC956?sharingId=CAA7D03D83E9AAAD)
 - [**Github Certified GitHub Administration**](https://www.credly.com/badges/2cb24392-72d7-4447-ba35-e8c6242a7a76/public_url)
 - [**Github Certified GitHub Actions**](https://www.credly.com/badges/142ac155-264e-4255-a06e-0d3b9b2dbbd8/public_url)
 - [**Github Certified GitHub Foundations**](https://www.credly.com/badges/7d3dafcf-70c5-4f26-abcb-b80f9777829d/public_url)
